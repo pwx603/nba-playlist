@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,nba-1
+#EXTINF:-1,nba-1 (web1)
 http://web1.savefiless.xyz/edge/NBA1/chunks.m3u8
 #EXTINF:-1,nba-2
 http://web.savefiless.xyz/edge/NBA2/chunks.m3u8
