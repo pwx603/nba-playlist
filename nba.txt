@@ -5,5 +5,5 @@ http://web1.savefiless.xyz/edge/NBA1/chunks.m3u8
 http://web.savefiless.xyz/edge/NBA2/chunks.m3u8
 #EXTINF:-1,tnt
 http://wp.savefiless.xyz/edge/TNT/chunks.m3u8
-#EXTINF:-1,man-vs-chel
+#EXTINF:-1,man-vs-chel(obsolete)
 http://gauhdj.azureedge.net/edge/BTS1/chunks.m3u8
